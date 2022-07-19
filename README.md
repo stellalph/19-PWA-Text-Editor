@@ -4,7 +4,7 @@
 
 ## Description
 
-The application is a web text editor where the user can create notes or code snippets with or without an internet connection where the user can reliably retrieve them for later use.
+The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.
 
 ## Table of Contents
 
