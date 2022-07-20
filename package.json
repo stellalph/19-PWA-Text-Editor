@@ -1,9 +1,10 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
   "main": "server.js",
   "scripts": {
+    "dev": "webpack-dev-server",
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server nodemon server.js --ignore client",
@@ -12,7 +13,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stella Ling",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -21,5 +22,13 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^1.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellalph/19-PWA-Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stellalph/19-PWA-Text-Editor/issues"
+  },
+  "homepage": "https://github.com/stellalph/19-PWA-Text-Editor#readme"
 }
