@@ -6,6 +6,8 @@
 
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.
 
+The URL of the GitHub repository is https://github.com/stellalph/19-PWA-Text-Editor.git and the repository name is 19-PWA-Text-Editor
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -14,3 +16,16 @@ The application is a web text editor where the user can create notes or code sni
 * [References](#references)
 * [License](#license)
 
+## Installation
+
+## Deployment
+
+Deploy to Heroku 🚀
+
+## Usage
+
+## References
+
+## License
+
+This project is licensed under the terms of the MIT license.
