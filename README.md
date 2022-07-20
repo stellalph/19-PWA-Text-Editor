@@ -110,6 +110,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 ![alt text](/assets/images/TE09.png)
 
 ![alt text](/assets/images/TE10.png)
+
  7.
 
  ````````
