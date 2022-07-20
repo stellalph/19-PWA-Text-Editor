@@ -47,7 +47,7 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 *Below is the screenshot of the client server folder structure.  The folder structure have been set up or given in this structure.*
 
-![alt text](/assets/TE07.png)
+![alt text](/assets/images/TE07.png)
 
 
 *   WHEN I run `npm run start` from the root directory
@@ -59,7 +59,7 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 *Below are the screenshot of the running at npm run start, npm run build and also the generated HTML, service worker and a manifest file*
 
-![alt text](/assets/TE02.png)
+![alt text](/assets/TE02/images.png)
 ![alt text](/assets/TE08.png)
 
 
