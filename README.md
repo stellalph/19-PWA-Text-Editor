@@ -60,7 +60,7 @@ This application is deployed to Heroku and the URL of the deployed application i
 *Below are the screenshot of the running at npm run start, npm run build and also the generated HTML, service worker and a manifest file*
 
 ![alt text](/assets/TE02/images.png)
-![alt text](/assets/TE08.png)
+![alt text](/assets/TE08/images.png)
 
 
 WHEN I use next-gen JavaScript in my application
@@ -69,7 +69,7 @@ WHEN I open the text editor
 
 *Below is screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](/assets/TE03.png)
+![alt text](/assets/images/TE03.png)
 
 
 THEN I find that IndexedDB has immediately created a database storage
@@ -80,7 +80,7 @@ THEN I find that the content in the text editor has been retrieved from our Inde
 
 *Below is screenshot of content in the text editor has been retrieved from the IndexedDB"*
 
-![alt text](/assets/TE05.png)
+![alt text](/assets/images/TE05.png)
 
 WHEN I click on the Install button
 THEN I download my web application as an icon on my desktop
