@@ -57,10 +57,13 @@ This application is deployed to Heroku and the URL of the deployed application i
     WHEN I run my webpack plugins
     THEN I find that I have a generated HTML file, service worker, and a manifest file
 
-*Below are the screenshot of the running at npm run start, npm run build and also the generated HTML, service worker and a manifest file*
+*Below is the screenshot of the running at npm run start and npm run build* 
 
-![alt text](/assets/TE02/images.png)
-![alt text](/assets/TE08/images.png)
+![alt text](/assets/images/TE02.png)
+
+*Below is the screenshot of the generated HTML, service worker and a manifest file*
+
+![alt text](/assets/images/TE08.png)
 
 
 WHEN I use next-gen JavaScript in my application
@@ -87,7 +90,7 @@ THEN I download my web application as an icon on my desktop
 
 *Below is screenshot of icon on the desktop"*
 
-![alt text](/assets/TE04.png)
+![alt text](/assets/images/TE04.png)
 
 WHEN I load my web application
 THEN I should have a registered service worker using workbox
