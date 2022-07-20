@@ -37,10 +37,10 @@ This application is deployed to Heroku and the URL of the deployed application i
          - npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
          - npm npm install idb (IndexedDB)
 
-* Nodemon is installed as development dependency meaning that if our application ever goes in production, this package will not be included. The command to install for in this case is **npm i -D nodemon**. The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.
-
 
 ## Deployment
+
+The application has been deployed to Heroku but kkk
 
 Deploy to Heroku 🚀
  
