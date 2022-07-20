@@ -40,23 +40,23 @@ This application is deployed to Heroku and the URL of the deployed application i
 * The required modules are bundled in the package.json file and at CLI or integrated terminal type in **npm run install**, the modules will be installed.       
 
 ## Usage
-
-*   GIVEN a text editor web application, 
-    WHEN I open my application in my editor
-    THEN I should see a client server folder structure
-
+````
+GIVEN a text editor web application, 
+WHEN I open my application in my editor
+THEN I should see a client server folder structure
+````
 *Below is the screenshot of the client server folder structure.  The folder structure have been set up or given in this structure.*
 
 ![alt text](/assets/images/TE07.png)
 
-
-*   WHEN I run `npm run start` from the root directory
-    THEN I find that my application should start up the backend and serve the client
-    WHEN I run the text editor application from my terminal
-    THEN I find that my JavaScript files have been bundled using webpack
-    WHEN I run my webpack plugins
-    THEN I find that I have a generated HTML file, service worker, and a manifest file
-
+````
+WHEN I run `npm run start` from the root directory
+THEN I find that my application should start up the backend and serve the client
+WHEN I run the text editor application from my terminal
+THEN I find that my JavaScript files have been bundled using webpack
+WHEN I run my webpack plugins
+THEN I find that I have a generated HTML file, service worker, and a manifest file
+````
 *Below is the screenshot of the running at npm run start and npm run build* 
 
 ![alt text](/assets/images/TE02.png)
