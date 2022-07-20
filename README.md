@@ -13,8 +13,8 @@ This application is deployed to Heroku and the URL of the deployed application i
 ## Table of Contents
 
 * [Installation](#installation)
-* [Deployment](#deployment)
 * [Usage](#usage)
+* [Deployment](#heroku)
 * [References](#references)
 * [License](#license)
 
@@ -28,19 +28,24 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 *  This application will use the following npm packages:-
 
-         - npm install express (express.js)
-         - npm install --save-dev webpack (Webpack)
-         - npm install webpack-dev-server --save-dev (webpack-dev-server)
-         - npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
-         - npm install babel (Babel)
-         - npm install --save-dev css-loader (CSS-loader)
-         - npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-         - npm npm install idb (IndexedDB)
+         * npm install express (express.js)
+         * npm install --save-dev webpack (Webpack)
+         * npm install webpack-dev-server --save-dev (webpack-dev-server)
+         * npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
+         * npm install babel (Babel)
+         * npm install --save-dev css-loader (CSS-loader)
+         * npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
+         * npm npm install idb (IndexedDB)
+
+* The required modules are bundled in the package.json file and at CLI or integrated Terminal type in **npm run install**, the modules will be installed.       
+
+## Usage
+
 
 
 ## Deployment
 
-The application has been deployed to Heroku but kkk
+The application has been deployed to Heroku.
 
 Deploy to Heroku 🚀
  
