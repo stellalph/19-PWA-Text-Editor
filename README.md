@@ -20,7 +20,7 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 ## Installation
 
-* This text editor require a number of  methods is needed to and store data to an IndexedDB database to be builded up.
+* This text editor require a number of methods and store data to an IndexedDB database to be builded up.
 
 * This application will require the installation of Node.js and various npm packages.
 
@@ -28,28 +28,31 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 *  This application will use the following npm packages:-
 
-         - npm install express
-         - npm install --save-dev webpack
-         - npm install webpack-dev-server --save-dev
-         - npm install --save-dev webpack-pwa-manifest
-         - npm install babel
-         - npm install --save-dev css-loader
-         - npm install concurrently --save (run multiple commands concurrently.)
-
+         - npm install express (express.js)
+         - npm install --save-dev webpack (Webpack)
+         - npm install webpack-dev-server --save-dev (webpack-dev-server)
+         - npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
+         - npm install babel (Babel)
+         - npm install --save-dev css-loader (CSS-loader)
+         - npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
+         - npm npm install idb (IndexedDB)
 
 * Nodemon is installed as development dependency meaning that if our application ever goes in production, this package will not be included. The command to install for in this case is **npm i -D nodemon**. The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.
-
 
 
 ## Deployment
 
 Deploy to Heroku 🚀
  
-
 https://mighty-waters-80466.herokuapp.com/
 
-
 ## Usage
+
+
+
+
+
+
 
 ## References
 
