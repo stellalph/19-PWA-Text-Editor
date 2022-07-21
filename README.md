@@ -8,13 +8,14 @@ The application is a web text editor where the user can create notes or code sni
 
 The URL of the GitHub repository is https://github.com/stellalph/19-PWA-Text-Editor.git and the repository name is 19-PWA-Text-Editor.
 
-This application is deployed to Heroku and the URL of the deployed application is https://mighty-waters-80466.herokuapp.com/
+🚀The application has been deployed to Heroku and the URL of the deployed application is:-
+ 
+https://mighty-waters-80466.herokuapp.com/
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Deployment](#heroku)
 * [References](#references)
 * [License](#license)
 
@@ -121,11 +122,6 @@ THEN I should have proper build scripts for a webpack application
 ````````
 ![alt text](/assets/images/TE11.png)
 
-## Deployment
-
-The application has been deployed to Heroku.🚀
- 
-https://mighty-waters-80466.herokuapp.com/
 
 ## References
 
