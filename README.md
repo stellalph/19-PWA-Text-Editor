@@ -105,7 +105,7 @@ THEN I should have a registered service worker using workbox
 WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 ``````
-*Below is the screenshot of registered service worker"*
+*Below is the screenshot of the static assets pre cached upon loading with subsequent pages and static assets"*
 
 ![alt text](/assets/images/TE09.png)
 
