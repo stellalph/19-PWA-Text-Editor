@@ -41,7 +41,7 @@ This application is deployed to Heroku and the URL of the deployed application i
 
 ## Usage
 
-*1
+1.
 ``````    
 GIVEN a text editor web application, 
 WHEN I open my application in my editor
@@ -52,7 +52,7 @@ THEN I should see a client server folder structure
 ![alt text](/assets/images/TE07.png)
 
 
-*2
+2.
 ``````
     WHEN I run `npm run start` from the root directory
     THEN I find that my application should start up the backend and serve the client
@@ -69,7 +69,7 @@ THEN I should see a client server folder structure
 
 ![alt text](/assets/images/TE08.png)
 
-*3
+3.
 ``````
 WHEN I use next-gen JavaScript in my application
 THEN I find that the text editor still functions in the browser without errors
@@ -79,7 +79,7 @@ WHEN I open the text editor
 
 ![alt text](/assets/images/TE03.png)
 
-*4
+4.
 ``````
 THEN I find that IndexedDB has immediately created a database storage
 WHEN I enter content and subsequently click off of the DOM window
@@ -91,7 +91,7 @@ THEN I find that the content in the text editor has been retrieved from our Inde
 
 ![alt text](/assets/images/TE05.png)
 
-*5
+5.
 ``````
 WHEN I click on the Install button
 THEN I download my web application as an icon on my desktop
@@ -100,7 +100,7 @@ THEN I download my web application as an icon on my desktop
 
 ![alt text](/assets/images/TE04.png)
 
-*6
+6.
 ``````
 WHEN I load my web application
 THEN I should have a registered service worker using workbox
@@ -113,7 +113,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 
 ![alt text](/assets/images/TE10.png)
 
-*7
+7.
 
  ````````
 WHEN I deploy to Heroku
